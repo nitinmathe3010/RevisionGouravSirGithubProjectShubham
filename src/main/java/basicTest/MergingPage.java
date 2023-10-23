@@ -1,6 +1,6 @@
 package basicTest;
 
-public class Test {
+public class MergingPage{
 
 	public static void main(String[] args) {
 		

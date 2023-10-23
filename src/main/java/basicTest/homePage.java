@@ -1,6 +1,6 @@
 package basicTest;
 
-public class Test {
+public class homePage {
 
 	public static void main(String[] args) {
 		
